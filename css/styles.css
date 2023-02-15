@@ -8,3 +8,9 @@ img {
   display: block;
   max-width: 100%;
 }
+
+div {
+  background: #80AA4E;
+  border-radius: 10px;
+  padding: 7px;
+}
