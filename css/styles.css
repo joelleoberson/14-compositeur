@@ -20,3 +20,10 @@ div {
   color: #fff;
 }
 
+.end {
+  border-color: aqua;
+  border-color: azure;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap
+} 
