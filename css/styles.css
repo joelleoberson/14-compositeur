@@ -2,6 +2,7 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ddd;
+  background-image: url(../img/ciel-etoile.jpg);
 }
 
 img {
@@ -14,3 +15,4 @@ div {
   border-radius: 10px;
   padding: 7px;
 }
+
