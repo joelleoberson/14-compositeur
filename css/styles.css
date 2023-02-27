@@ -15,6 +15,7 @@ div {
   border-radius: 10px;
   padding: 7px;
   padding: 20px;
+  margin: 10px;
 }
 
 .quote {
@@ -34,4 +35,15 @@ a {
   border-style: solid;
   border-radius: 10px;
   border-color: #000;
+  text-align: center;
+  padding: 7px;
+  color: #000;
+}
+
+a:hover {
+  color: #fff;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
 }
