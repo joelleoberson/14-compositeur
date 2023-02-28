@@ -37,6 +37,8 @@ a {
   text-align: center;
   padding: 7px;
   color: #000;
+  display: flex;
+  justify-content: center;
 }
 
 a:hover {
