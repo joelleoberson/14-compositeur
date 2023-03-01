@@ -19,6 +19,9 @@ div {
 
 .quote {
   color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-size: 17px;
 }
 
 .end {
@@ -61,6 +64,7 @@ em {
  font-family: 'Roboto', sans-serif;
  font-weight: 300;
  font-size: 15px;
+ margin: 5px;
 }
 
 .alien {
